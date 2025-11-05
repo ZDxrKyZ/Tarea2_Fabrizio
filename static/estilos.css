@@ -9,6 +9,9 @@ body {
 header h1 {
     animation: aparecer 2s ease-in-out;
 }
+section h2, article h3 {
+    animation: aparecer 2s ease-in-out;
+}    
 
 header {
     background-color: #0078d7;
@@ -69,3 +72,5 @@ footer {
         transform: translateY(0);
     }
 }
+
+
